@@ -5,10 +5,10 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.1.5.RELEASE</version>
+		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alura.microservice.transportador</groupId>
+	<groupId>br.com.candradebh.microservice.transportador</groupId>
 	<artifactId>transportador</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>transportador</name>
